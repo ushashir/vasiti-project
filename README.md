@@ -1,4 +1,4 @@
-Hosted url [Create React App](https://github.com/facebook/create-react-app).
+Project hosted [Here](https://friendly-morse-970882.netlify.app/).
 
 ##  Project done by Ushahemba Shir as interview task for vasiti.
 
